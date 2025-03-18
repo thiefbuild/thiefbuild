@@ -1,8 +1,12 @@
-I am a cybersecurity enthusiast with a background in web development. I make [YouTube videos](https://youtube.com/@thiefbuild) teaching what I learn.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00DD1F&width=435&lines=Hey!+I+am+%22Thief+Build%22.)](https://git.io/typing-svg)
 
-🌱 I'm currently learning about programming in Go and malware forensics.
+I am a cybersecurity enthusiast and computer science student, with a background in web development, training to become a SOC Analyst.
 
-📫 You can contact me on [Discord](https://discord.gg/D3UaNQjFgP) or [email](mailto:thiefbuild@gmail.com).
+🌱 I'm currently practicing my skills on TryHackMe and studying for the CEH Certification.
+
+🖥️ Programming languages I'm interested in are C, Assembly, and Go.
+
+📫 You can contact me on [Discord](https://discord.com/users/1349152741443768341) or [email](mailto:thiefbuild@gmail.com).
 
 <!--
 **thiefbuild/thiefbuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
