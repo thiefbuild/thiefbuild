@@ -8,6 +8,10 @@ I am a cybersecurity enthusiast and computer science student, with a background 
 
 📫 You can contact me on [Discord](https://discord.com/users/1349152741443768341) or [email](mailto:thiefbuild@gmail.com).
 
+<hr />
+
+![HackTheBox Stats](https://www.hackthebox.com/badge/image/2309991)
+
 <!--
 **thiefbuild/thiefbuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
