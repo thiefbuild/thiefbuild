@@ -10,6 +10,7 @@ I am a cybersecurity enthusiast and computer science student, with a background 
 
 <hr />
 
+![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/thiefbuild.png)
 ![HackTheBox Stats](https://www.hackthebox.com/badge/image/2309991)
 
 <!--
